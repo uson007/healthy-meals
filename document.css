@@ -1,0 +1,23 @@
+@media (min-width:0px) and (max-width:340px) {
+    #header-container {
+        display: none;
+      }
+      #section-container {
+        display: none;
+      }
+      #section-container1 {
+        display: none;
+      }
+      #section-container2 {
+        display: none;
+      }
+      #section-container3 {
+        display: none;
+      }
+      .border {
+        display: none;
+      }
+      #footer-container {
+        display: none;
+      }
+}
